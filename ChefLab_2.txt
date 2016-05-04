@@ -1,0 +1,9 @@
+Task 1:  Bring up your favorite browser and navigate to this URL:
+        https://learn.chef.io/tutorials/
+        Task 2:  In the “Learn Chef Basics”, select the Ubuntu server.
+        Task 3:  Click the “Next” button.
+        Task 4:  Follow steps 1 through 3 to learn how Chef works.
+                Step 1 sets up a virtual server for you.
+                Step 2 helps you with using a text editor for the lab.
+                Step 3 is a web page that walks you through the lesson.
+                It tells you what to do in the virtual  server.
