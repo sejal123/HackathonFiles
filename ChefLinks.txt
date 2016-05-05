@@ -1,0 +1,5 @@
+The following are some excellent links for use with Chef:
+https://learn.chef.io - This is  the high-level link for all the Chef resources.  Very good place to visit.
+https://learn.chef.io/tutorials/ - Here’s where to find some excellent Chef tutorials
+https://learn.chef.io/skills/ - Here’s a place to find some training resources that go beyond basics skills and into the realm of thought leadership and concepts
+https://docs.chef.io - Chef has one of the richest sets of documentation we’ve ever seen.
